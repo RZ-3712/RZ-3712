@@ -8,7 +8,7 @@ I am a recent graduate with a profound interest in cybersecurity and a dedicatio
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in ...
+Passionate about cybersecurity and eager to launch my career in the field. Open to entry-level opportunities in cybersecurity and IT. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
