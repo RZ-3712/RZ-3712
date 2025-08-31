@@ -15,12 +15,12 @@ Passionate about cybersecurity and eager to launch my career in the field. Open 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/RZ-3712/Intro-to-SIEM">Intro to SIEM</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">SOC Fundamentals</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://google.com">SOC L1 Alert Triage</a>|
-| Incident Response Planning and Execution      | <a href="https://google.com">SOC L1 Alert Reporting
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/RZ-3712/Intro-to-SIEM">TryHackMe: Intro to SIEM</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">TryHackMe: SOC Fundamentals</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://google.com">TryHackMe: SOC L1 Alert Triage</a>|
+| Incident Response Planning and Execution      | <a href="https://google.com">TryHackMe: SOC L1 Alert Reporting
 </a>|
-| Case Management with TheHive                  | <a href="https://google.com">Writing Pentest Reports</a>|
+| Case Management with TheHive                  | <a href="https://google.com">TryHackMe: Writing Pentest Reports</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
