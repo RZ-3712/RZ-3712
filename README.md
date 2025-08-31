@@ -51,5 +51,5 @@ Passionate about cybersecurity and eager to launch my career in the field. Open 
 </div>
 
 ## Projects
-- <a href="https://github.com/RZ-3712/Intro-to-SIEM">Intro to SIEM</a>
+- <a href="https://github.com/RZ-3712/Intro-to-SIEM">TryHackMe: Intro to SIEM</a>
 - SOC Automation Project
