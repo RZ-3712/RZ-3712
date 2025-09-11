@@ -17,7 +17,7 @@ Passionate about cybersecurity and eager to launch my career in the field. Open 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/RZ-3712/Intro-to-SIEM">TryHackMe: Intro to SIEM</a>|
 | Solving real-world SOC alerts as a level 1 Analyst | <a href="https://github.com/RZ-3712/TryHackMe-SOC-Fundamentals">TryHackMe: SOC Fundamentals</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://google.com">TryHackMe: SOC L1 Alert Triage</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/RZ-3712/TryHackMe-SOC-L1-Alert-Triage">TryHackMe: SOC L1 Alert Triage</a>|
 | Incident Response Planning and Execution      | <a href="https://google.com">TryHackMe: SOC L1 Alert Reporting
 </a>|
 | Case Management with TheHive                  | <a href="https://google.com">TryHackMe: Writing Pentest Reports</a>|
@@ -53,3 +53,4 @@ Passionate about cybersecurity and eager to launch my career in the field. Open 
 ## Projects
 - <a href="https://github.com/RZ-3712/Intro-to-SIEM">TryHackMe: Intro to SIEM</a>
 - <a href="https://github.com/RZ-3712/TryHackMe-SOC-Fundamentals">TryHackMe: SOC Fundamentals</a>
+- <a href="https://github.com/RZ-3712/TryHackMe-SOC-L1-Alert-Triage">TryHackMe: SOC L1 Alert Triage</a>
