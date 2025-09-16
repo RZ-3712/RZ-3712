@@ -14,8 +14,8 @@ Passionate about cybersecurity and eager to launch my career in the field. Open 
 | SIEM Implementation and Log Analysis | <a href="https://github.com/RZ-3712/Intro-to-SIEM">TryHackMe: Intro to SIEM</a>|
 | Solving real-world SOC alerts as a level 1 Analyst | <a href="https://github.com/RZ-3712/TryHackMe-SOC-Fundamentals">TryHackMe: SOC Fundamentals</a>|
 | Performing alert triage | <a href="https://github.com/RZ-3712/TryHackMe-SOC-L1-Alert-Triage">TryHackMe: SOC L1 Alert Triage</a>|
-| Reporting, escalating, and communicating high-risk SOC alerts | <a href="https://google.com">TryHackMe: SOC L1 Alert Reporting</a>|
-| Writing professional pentesting reports | <a href="https://google.com">TryHackMe: Writing Pentest Reports</a>|
+| Reporting, escalating, and communicating high-risk SOC alerts | <a href="https://github.com/RZ-3712/TryHackMe-SOC-L1-Alert-Reporting">TryHackMe: SOC L1 Alert Reporting</a>|
+| Writing professional pentesting reports | <a href="https://github.com/RZ-3712/TryHackMe-Writing-Pentest-Reports">TryHackMe: Writing Pentest Reports</a>|
 
 ## Tools
 
@@ -32,7 +32,6 @@ Passionate about cybersecurity and eager to launch my career in the field. Open 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
@@ -41,3 +40,5 @@ Passionate about cybersecurity and eager to launch my career in the field. Open 
 - <a href="https://github.com/RZ-3712/Intro-to-SIEM">TryHackMe: Intro to SIEM</a>
 - <a href="https://github.com/RZ-3712/TryHackMe-SOC-Fundamentals">TryHackMe: SOC Fundamentals</a>
 - <a href="https://github.com/RZ-3712/TryHackMe-SOC-L1-Alert-Triage">TryHackMe: SOC L1 Alert Triage</a>
+- <a href="https://github.com/RZ-3712/TryHackMe-SOC-L1-Alert-Reporting">TryHackMe: SOC L1 Alert Reporting</a>
+- <a href="https://github.com/RZ-3712/TryHackMe-Writing-Pentest-Reports">TryHackMe: Writing Pentest Reports</a>
